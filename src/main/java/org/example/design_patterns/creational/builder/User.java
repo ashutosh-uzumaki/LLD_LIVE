@@ -1,4 +1,4 @@
-package org.example.design_patterns.builder;
+package org.example.design_patterns.creational.builder;
 
 public class User {
     private final String name;

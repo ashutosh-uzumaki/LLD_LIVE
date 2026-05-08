@@ -1,4 +1,4 @@
-package org.example.design_patterns.factory;
+package org.example.design_patterns.creational.factory;
 
 public class FactoryDemo {
     public static void main(String[] args) {
